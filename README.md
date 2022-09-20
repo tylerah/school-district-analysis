@@ -24,7 +24,7 @@ Corrected:
 ![summary_corrected](https://user-images.githubusercontent.com/104606662/191144592-c8601e30-e757-4feb-9137-af75d164af5b.png)
 
 ### School Summary
-The school summary is largely unchanged. This is to be expected because only data from Thomas High was compromised. However, even the scores at Thomas High that were directly impacted were still very comparable. 
+The school summary is largely unchanged. This is to be expected because only data from Thomas High was compromised. However, even the scores at Thomas High that were directly impacted were still very comparable having changed less than a single percent.
 
 Original:
 
@@ -33,3 +33,15 @@ Original:
 Corrected:
 
 ![Screen Shot 2022-09-19 at 7 24 57 PM](https://user-images.githubusercontent.com/104606662/191147021-b1947085-46d0-4cb1-b100-5598ed90b19e.png)
+
+### Thomas High School's Performance Relative to Other Schools
+Given that the overall percentages did not change much, as seen in the previous summary DataFrames, Thomas High School's overall performance relative to other schools did not change either. Thomas High remains second in the district. 
+
+Original:
+
+![Screen Shot 2022-09-19 at 7 34 49 PM](https://user-images.githubusercontent.com/104606662/191148112-e1d33a42-60ec-4e75-922d-d129e25ff72d.png)
+
+Corrected:
+
+![Screen Shot 2022-09-19 at 7 34 58 PM](https://user-images.githubusercontent.com/104606662/191148124-72387132-38c6-4876-bf38-564e77ff5a9f.png)
+
