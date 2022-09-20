@@ -45,6 +45,26 @@ Corrected:
 
 ![Screen Shot 2022-09-19 at 7 34 58 PM](https://user-images.githubusercontent.com/104606662/191148124-72387132-38c6-4876-bf38-564e77ff5a9f.png)
 
+### Scores Broken Down By Grade
+Scores for each grade in every school besides Thomas High school do not change (this is expected as the data was not altered). The scores for 10th through 12th grades at Thomas High School also do not change (this is expected for the same reason). No data is displayed for Thomas High 9th graders because the data was removed. 
+
+Original Math:
+
+![math original](https://user-images.githubusercontent.com/104606662/191169259-7eaf4d5a-d4b3-4e2b-a4ae-bd5aacc0a328.png)
+
+Corrected Math:
+
+![math corrected](https://user-images.githubusercontent.com/104606662/191169230-4dd23ce5-5d93-4943-83d6-5306242ce537.png)
+
+
+Original Reading:
+
+![reading original](https://user-images.githubusercontent.com/104606662/191169248-ea7b1d34-8234-4176-a2c3-781ede48b85f.png)
+
+Corrected Reading:
+
+![reading corrected](https://user-images.githubusercontent.com/104606662/191169198-07f40a23-f271-4627-b5c0-59c3cad6e699.png)
+
 ### Scores by Budget, School Size, and School Type
 As consistent with the other DataFrames, there was no noticeable change in any of these DataFrames. The impact of correcting the erroneous data for Thomas High had a negligible impact. 
 
@@ -81,4 +101,4 @@ Corrected:
 ![Screen Shot 2022-09-19 at 7 44 01 PM](https://user-images.githubusercontent.com/104606662/191148980-df56f0db-81f0-47da-9ec3-0e535a562dc1.png)
 
 ## Summary
-Overall, the data for the entire school district remained largely unchanged. In the average passing math and reading scores, the % passing for Thomas High School dropped by less than a percent. The impact on all metrics considered was found to largely neglible. 
+Overall, the data for the entire school district remained largely unchanged. In the average passing math and reading scores, the % passing for Thomas High School dropped by less than a percent. The impact on all other metrics considered was found to largely neglible or was found to have no change at all.  
